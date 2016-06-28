@@ -1,5 +1,5 @@
 ##
-# Copyright (c) 2015, Dominique Pizzie
+# Copyright (c) 2016, Dominique Pizzie
 # Copyrights licensed under the MIT License (MIT).
 # See the accompanying LICENSE file for terms.
 ##
